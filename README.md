@@ -2,7 +2,7 @@
 <h3 align="center">Windows Server · Réseau & Sécurité · Self-Hosting · IA & DevOps</h3>
 
 <p align="center">
-  <i>Je transforme des serveurs en infrastructures fiables, souveraines et automatisées.</i>
+
 </p>
 
 <p align="center">
