@@ -12,17 +12,22 @@ Passionné d'administration systèmes et d'infrastructure, je me forme en contin
 ### Ce sur quoi je travaille et progresse
 
 - **Virtualisation** — Proxmox VE : création de VM/LXC, snapshots, premiers pas sur le passthrough et le PXE/FOG.
+- **Environnement Windows** — Maîtrise de Windows Server (Active Directory, GPO, services de domaine) et administration de postes Windows.
+- **Réseau & Sécurité** — Maîtrise des fondamentaux réseau et de la gestion de firewalls : segmentation, règles de filtrage, VPN, DNS, certificats.
+- **Environnement médical & HADS** — Expérience de l'infrastructure IT en milieu médical, sensibilisé aux contraintes d'hébergement de données de santé (HADS / HDS) et aux exigences de continuité de service.
 - **Conteneurisation** — Docker & Docker Compose, reverse-proxy avec Traefik, gestion via Portainer.
 - **Supervision** — Découverte de Zabbix, Grafana et de la centralisation des logs (Loki/Promtail).
 - **Sécurité & Identité** — SSO avec Authentik, gestion de secrets (Vaultwarden), bonnes pratiques de durcissement.
 - **Automatisation** — Scripting Bash/Python, workflows n8n, orchestration via SSH.
-- **Réseau & Services** — DNS, certificats, reverse-proxy, gestion de VPS.
+- **IA & LLM self-hosted** — Déploiement et utilisation de modèles de langage en local (Ollama, llama3.1, embeddings nomic-embed-text), mise en place de pipelines RAG (RAGFlow + Open WebUI) et d'agents conversationnels intégrés au SI (routage d'intentions, ingestion automatisée de données métier, citations sourcées). Maîtrise des différents modèles LLM et de leurs cas d'usage, avec un fort intérêt pour la souveraineté des données.
+- **Homelab & médiathèque** — Stack auto-hébergée orchestrée via Portainer : Jellyfin / Jellyseerr pour le streaming, Prowlarr / Sonarr / Radarr pour l'automatisation de la médiathèque, le tout derrière reverse-proxy.
 
 ---
 
 ### Technologies que j'explore
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
@@ -32,6 +37,9 @@ Passionné d'administration systèmes et d'infrastructure, je me forme en contin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
 
 ---
 
