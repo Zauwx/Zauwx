@@ -21,6 +21,7 @@ Administrateur systèmes orienté infrastructure, réseau et self-hosting. J'int
 
 - **Environnement Windows** : Windows Server (Active Directory, GPO, services de domaine) et administration de postes Windows.
 - **Réseau & Sécurité** : Réseau et gestion de firewalls : segmentation, règles de filtrage, VPN, DNS, certificats.
+- **Diagnostic réseau & système** : Identification et résolution de pannes (connectivité, latence, résolution DNS, débit, routage), analyse de logs et supervision des performances système.
 - **Environnement médical & HDS** : Infrastructure IT en milieu médical, contraintes d'hébergement de données de santé (HDS) et exigences de continuité de service.
 - **IA & LLM self-hosted** : Déploiement et utilisation de modèles de langage en local (Ollama, llama3.1, embeddings nomic-embed-text), pipelines RAG (RAGFlow + Open WebUI) et agents conversationnels intégrés au SI (routage d'intentions, ingestion automatisée de données métier, citations sourcées). Connaissance des différents modèles LLM et de leurs cas d'usage, avec un fort intérêt pour la souveraineté des données.
 - **Homelab & médiathèque** : Stack auto-hébergée orchestrée via Portainer : Jellyfin / Jellyseerr pour le streaming, Prowlarr / Sonarr / Radarr pour l'automatisation de la médiathèque, le tout derrière reverse-proxy.
@@ -45,6 +46,20 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 - **Versioning & collaboration** : Git workflow structuré (branches, pull requests, revues de code), automatisation des dépendances via Dependabot, sécurisation des dépôts.
 - **Infrastructure as Code & provisioning** : Déploiement reproductible sur VPS, orchestration du cycle de vie des services via API et automatisation SSH.
 - **Organisation du travail** : Découpage en sprints, suivi des tâches, documentation maintenue comme source unique de vérité, démarche itérative.
+
+---
+
+### Outils & commandes de diagnostic
+
+| Domaine | Outils & commandes |
+|---|---|
+| **Connectivité & routage** | `ping` · `tracert` / `traceroute` · `pathping` · `mtr` |
+| **Configuration réseau** | `ipconfig` · `ip` / `ifconfig` · `netstat` · `ss` · `arp` |
+| **Résolution DNS** | `nslookup` · `dig` · `host` |
+| **Scan & cartographie** | `nmap` · `netcat` (`nc`) · `telnet` |
+| **Performances & débit** | `iperf3` · `htop` · `iotop` · `nload` |
+| **Analyse de trafic** | `tcpdump` · `Wireshark` |
+| **Système & logs** | `journalctl` · `dmesg` · `systemctl` · `Event Viewer` |
 
 ---
 
