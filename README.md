@@ -50,13 +50,24 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 
 ### Certifications & Formations
 
+**Obtenu**
+
 <p align="left">
   <a href="https://www.credly.com/badges/4a44a877-15bc-43e0-86e6-bd7188da06fa">
     <img src="https://img.shields.io/badge/Linux%20Foundation-LFS101%20Intro%20to%20Linux-0D597F?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/>
   </a>
 </p>
 
-> 🎯 En préparation : Fortinet NSE 1-3 · ISC2 Certified in Cybersecurity (CC) · AWS Cloud Practitioner
+**En préparation / Visé**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux%20Foundation-LFCS-0D597F?style=for-the-badge&logo=linux&logoColor=white" alt="LFCS"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="CCA"/>
+  <img src="https://img.shields.io/badge/Fortinet-NSE%201--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE"/>
+</p>
+
+> 🎯 **Roadmap** : LFCS (admin Linux) · CCNA (réseau Cisco) · Claude Certified Architect & Anthropic Academy (IA / LLM) · Fortinet NSE 1-3 (sécurité réseau)
 
 ---
 
