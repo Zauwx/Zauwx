@@ -75,9 +75,12 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
   <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="CCA"/>
   <img src="https://img.shields.io/badge/Fortinet-NSE%201--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner"/>
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner"/>
+  <img src="https://img.shields.io/badge/AWS-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SysOps Administrator"/>
 </p>
 
-> 🎯 **Roadmap** : LFCS (admin Linux) · CCNA (réseau Cisco) · Claude Certified Architect & Anthropic Academy (IA / LLM) · Fortinet NSE 1-3 (sécurité réseau)
+> 🎯 **Roadmap** : LFCS (admin Linux) · CCNA (réseau Cisco) · Claude Certified Architect & Anthropic Academy (IA / LLM) · Fortinet NSE 1-3 (sécurité réseau) · AWS Cloud Practitioner → AI Practitioner → SysOps Administrator (cloud)
 
 ---
 
