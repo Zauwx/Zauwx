@@ -31,7 +31,7 @@ Administrateur systèmes orienté infrastructure, réseau et self-hosting. J'int
 ### Apprentissage continu
 
 - **Virtualisation** : Proxmox VE : VM/LXC, snapshots, passthrough GPU, PXE/FOG.
-- **Conteneurisation** : Docker & Docker Compose, reverse-proxy avec Traefik.
+- **Conteneurisation** : Docker & Docker Compose, reverse-proxy avec Nginx Proxy Manager (NPM).
 - **Supervision** : Zabbix, Grafana et centralisation des logs (Loki/Promtail).
 - **Sécurité & Identité** : SSO avec Authentik, gestion de secrets (Vaultwarden), durcissement système.
 - **Automatisation** : Scripting Bash/Python, workflows n8n, orchestration via SSH.
@@ -92,7 +92,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -113,7 +113,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
     <td width="50%" valign="top">
       <h4>🏥 Infrastructure IT self-hosted</h4>
       <p>Socle complet pour un environnement médical : Proxmox, stack Docker (GLPI, Zabbix, Grafana, NetBox, Authentik, Vaultwarden) derrière reverse-proxy, supervision et logging centralisés. Orientation souveraineté et continuité de service.</p>
-      <p><code>Proxmox</code> <code>Docker</code> <code>Traefik</code> <code>Zabbix</code></p>
+      <p><code>Proxmox</code> <code>Docker</code> <code>NPM</code> <code>Zabbix</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 Assistant IA self-hosted (RAG)</h4>
