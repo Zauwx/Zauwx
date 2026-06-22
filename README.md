@@ -49,20 +49,6 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 
 ---
 
-### Outils & commandes de diagnostic
-
-| Domaine | Outils & commandes |
-|---|---|
-| **Connectivité & routage** | `ping` · `tracert` / `traceroute` · `pathping` · `mtr` |
-| **Configuration réseau** | `ipconfig` · `ip` / `ifconfig` · `netstat` · `ss` · `arp` |
-| **Résolution DNS** | `nslookup` · `dig` · `host` |
-| **Scan & cartographie** | `nmap` · `netcat` (`nc`) · `telnet` |
-| **Performances & débit** | `iperf3` · `htop` · `iotop` · `nload` |
-| **Analyse de trafic** | `tcpdump` · `Wireshark` |
-| **Système & logs** | `journalctl` · `dmesg` · `systemctl` · `Event Viewer` |
-
----
-
 ### Certifications & Formations
 
 **Obtenu**
