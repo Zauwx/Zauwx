@@ -1,9 +1,7 @@
 <h1 align="center">Administration Systèmes & Infrastructure</h1>
 <h3 align="center">Windows Server · Réseau & Sécurité · Self-Hosting · IA & DevOps</h3>
 
-<p align="center">
 
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Administration+syst%C3%A8mes+%26+infrastructure;Self-hosting+%26+souverainet%C3%A9+des+donn%C3%A9es;IA+%26+LLM+self-hosted;Automatisation+%26+DevOps" alt="Typing SVG" />
@@ -14,6 +12,14 @@
 ### Présentation
 
 Administrateur systèmes orienté infrastructure, réseau et self-hosting. J'interviens sur des environnements Windows Server et Linux, la sécurité réseau, l'hébergement de données sensibles (milieu médical / HDS) et le déploiement de solutions d'IA self-hosted. J'apprends en construisant et améliore mes compétences en continu, avec un fort intérêt pour l'automatisation, la souveraineté des données et les pratiques DevOps.
+
+---
+
+### Mon parcours
+
+En 2025, je partais sans aucune base sous Linux. Je me suis formé en autodidacte en construisant de vrais projets, et je conçois aujourd'hui des infrastructures de plus en plus abouties : virtualisation, conteneurisation, supervision, reverse-proxy et IA self-hosted. Mon infrastructure n'est jamais « figée » : elle évolue en continu, en parallèle de l'exploitation en production, au fil des besoins et des compétences acquises.
+
+Ce qui me motive, c'est la philosophie de l'open source : comprendre ce qui tourne sous le capot, ne pas dépendre de boîtes noires, et rester propriétaire de mes données. Le self-hosting et la souveraineté numérique sont au cœur de ma démarche. Les certifications que je vise (LFCS, CCNA, AWS) structurent et valident cette progression.
 
 ---
 
