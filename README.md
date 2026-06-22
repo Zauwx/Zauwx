@@ -5,22 +5,22 @@
 
 ### Présentation
 
-Passionné d'administration systèmes et d'infrastructure, je me forme en continu sur ces domaines à travers des projets concrets : mise en place de serveurs, virtualisation, conteneurisation et automatisation. J'apprends en construisant, en cassant, et en améliorant — mon objectif est de monter en compétences sur des environnements réalistes et de progresser vers des pratiques DevOps solides.
+Passionné d'administration systèmes et d'infrastructure, je me forme en continu sur ces domaines à travers des projets concrets : mise en place de serveurs, virtualisation, conteneurisation et automatisation. J'apprends en construisant, en cassant, et en améliorant mon objectif est de monter en compétences sur des environnements réalistes et de progresser vers des pratiques DevOps solides.
 
 ---
 
 ### Ce sur quoi je travaille et progresse
 
-- **Virtualisation** — Proxmox VE : création de VM/LXC, snapshots, premiers pas sur le passthrough et le PXE/FOG.
-- **Environnement Windows** — Maîtrise de Windows Server (Active Directory, GPO, services de domaine) et administration de postes Windows.
-- **Réseau & Sécurité** — Maîtrise des fondamentaux réseau et de la gestion de firewalls : segmentation, règles de filtrage, VPN, DNS, certificats.
-- **Environnement médical & HADS** — Expérience de l'infrastructure IT en milieu médical, sensibilisé aux contraintes d'hébergement de données de santé (HADS / HDS) et aux exigences de continuité de service.
-- **Conteneurisation** — Docker & Docker Compose, reverse-proxy avec Traefik, gestion via Portainer.
-- **Supervision** — Découverte de Zabbix, Grafana et de la centralisation des logs (Loki/Promtail).
-- **Sécurité & Identité** — SSO avec Authentik, gestion de secrets (Vaultwarden), bonnes pratiques de durcissement.
-- **Automatisation** — Scripting Bash/Python, workflows n8n, orchestration via SSH.
-- **IA & LLM self-hosted** — Déploiement et utilisation de modèles de langage en local (Ollama, llama3.1, embeddings nomic-embed-text), mise en place de pipelines RAG (RAGFlow + Open WebUI) et d'agents conversationnels intégrés au SI (routage d'intentions, ingestion automatisée de données métier, citations sourcées). Maîtrise des différents modèles LLM et de leurs cas d'usage, avec un fort intérêt pour la souveraineté des données.
-- **Homelab & médiathèque** — Stack auto-hébergée orchestrée via Portainer : Jellyfin / Jellyseerr pour le streaming, Prowlarr / Sonarr / Radarr pour l'automatisation de la médiathèque, le tout derrière reverse-proxy.
+- **Virtualisation**  Proxmox VE : création de VM/LXC, snapshots, premiers pas sur le passthrough et le PXE/FOG.
+- **Environnement Windows**  Maîtrise de Windows Server (Active Directory, GPO, services de domaine) et administration de postes Windows.
+- **Réseau & Sécurité**  Maîtrise des fondamentaux réseau et de la gestion de firewalls : segmentation, règles de filtrage, VPN, DNS, certificats.
+- **Environnement médical & HADS**  Expérience de l'infrastructure IT en milieu médical, sensibilisé aux contraintes d'hébergement de données de santé (HADS / HDS) et aux exigences de continuité de service.
+- **Conteneurisation**  Docker & Docker Compose, reverse-proxy avec Traefik, gestion via Portainer.
+- **Supervision**  Découverte de Zabbix, Grafana et de la centralisation des logs (Loki/Promtail).
+- **Sécurité & Identité**  SSO avec Authentik, gestion de secrets (Vaultwarden), bonnes pratiques de durcissement.
+- **Automatisation**  Scripting Bash/Python, workflows n8n, orchestration via SSH.
+- **IA & LLM self-hosted**  Déploiement et utilisation de modèles de langage en local (Ollama, llama3.1, embeddings nomic-embed-text), mise en place de pipelines RAG (RAGFlow + Open WebUI) et d'agents conversationnels intégrés au SI (routage d'intentions, ingestion automatisée de données métier, citations sourcées). Maîtrise des différents modèles LLM et de leurs cas d'usage, avec un fort intérêt pour la souveraineté des données.
+- **Homelab & médiathèque**  Stack auto-hébergée orchestrée via Portainer : Jellyfin / Jellyseerr pour le streaming, Prowlarr / Sonarr / Radarr pour l'automatisation de la médiathèque, le tout derrière reverse-proxy.
 
 ---
 
@@ -54,6 +54,6 @@ Passionné d'administration systèmes et d'infrastructure, je me forme en contin
 
 ### Contact
 
-[![Email pro](https://img.shields.io/badge/Email%20pro-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zauwx@dexterity-france.fr)
-[![Email perso](https://img.shields.io/badge/Email%20perso-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duncan.dubernat@gmail.com)
+[![Email perso](https://img.shields.io/badge/Email%20pro-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zauwx@dexterity-france.fr)
+[![Email pro](https://img.shields.io/badge/Email%20perso-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duncan.dubernat@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duncandubernat/)
