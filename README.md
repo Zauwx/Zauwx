@@ -48,6 +48,18 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 
 ---
 
+### Certifications & Formations
+
+<p align="left">
+  <a href="https://www.credly.com/badges/4a44a877-15bc-43e0-86e6-bd7188da06fa">
+    <img src="https://img.shields.io/badge/Linux%20Foundation-LFS101%20Intro%20to%20Linux-0D597F?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/>
+  </a>
+</p>
+
+> 🎯 En préparation : Fortinet NSE 1-3 · ISC2 Certified in Cybersecurity (CC) · AWS Cloud Practitioner
+
+---
+
 ### Technologies que j'explore
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
