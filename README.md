@@ -1,26 +1,26 @@
-<h1 align="center">Administrateur Systèmes & Infrastructure</h1>
-<h3 align="center">DevOps · Virtualisation · Self-Hosting · Automatisation</h3>
+<h1 align="center">Administration Systèmes & Infrastructure</h1>
+<h3 align="center">En apprentissage continu · DevOps · Self-Hosting · Automatisation</h3>
 
 ---
 
 ### Présentation
 
-Administrateur systèmes spécialisé dans la conception, le déploiement et la maintenance d'infrastructures à grande échelle. Expérience sur des parcs de plusieurs milliers de postes répartis sur de nombreux sites, avec une approche orientée fiabilité, supervision et automatisation.
+Passionné d'administration systèmes et d'infrastructure, je me forme en continu sur ces domaines à travers des projets concrets : mise en place de serveurs, virtualisation, conteneurisation et automatisation. J'apprends en construisant, en cassant, et en améliorant — mon objectif est de monter en compétences sur des environnements réalistes et de progresser vers des pratiques DevOps solides.
 
 ---
 
-### Compétences
+### Ce sur quoi je travaille et progresse
 
-- **Infrastructure & Virtualisation** — Proxmox VE, gestion de clusters, passthrough GPU, déploiement PXE/FOG, haute disponibilité.
-- **Conteneurisation & Orchestration** — Docker, reverse-proxy (Traefik), Portainer, déploiements reproductibles.
-- **Observabilité** — Zabbix, Grafana, Loki/Promtail : supervision, alerting et logging centralisé.
-- **Sécurité & Identité** — SSO (Authentik), gestion de secrets (Vaultwarden), firewalling, durcissement système.
-- **Automatisation** — n8n, scripting Bash/Python, orchestration SSH, intégration de workflows.
-- **Réseau & Services** — DNS, reverse-proxy, certificats, gestion de VPS et d'environnements cloud.
+- **Virtualisation** — Proxmox VE : création de VM/LXC, snapshots, premiers pas sur le passthrough et le PXE/FOG.
+- **Conteneurisation** — Docker & Docker Compose, reverse-proxy avec Traefik, gestion via Portainer.
+- **Supervision** — Découverte de Zabbix, Grafana et de la centralisation des logs (Loki/Promtail).
+- **Sécurité & Identité** — SSO avec Authentik, gestion de secrets (Vaultwarden), bonnes pratiques de durcissement.
+- **Automatisation** — Scripting Bash/Python, workflows n8n, orchestration via SSH.
+- **Réseau & Services** — DNS, certificats, reverse-proxy, gestion de VPS.
 
 ---
 
-### Stack technique
+### Technologies que j'explore
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
@@ -30,8 +30,6 @@ Administrateur systèmes spécialisé dans la conception, le déploiement et la 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
