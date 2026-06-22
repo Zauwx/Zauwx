@@ -57,6 +57,15 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
   <a href="https://www.credly.com/badges/4a44a877-15bc-43e0-86e6-bd7188da06fa">
     <img src="https://img.shields.io/badge/Linux%20Foundation-LFS101%20Intro%20to%20Linux-0D597F?style=for-the-badge&logo=linux&logoColor=white" alt="LFS101"/>
   </a>
+  <a href="https://verify.skilljar.com/c/fmjysus36s3w">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101"/>
+  </a>
+  <a href="https://verify.skilljar.com/c/2r4dybzg2tgq">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code 101"/>
+  </a>
+  <a href="https://verify.skilljar.com/c/7qozrkeucnxt">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/>
+  </a>
 </p>
 
 **En préparation / Visé**
