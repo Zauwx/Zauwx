@@ -107,7 +107,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zauwx&theme=flat&no-frame=true&column=7&margin-w=5" alt="trophées GitHub"/>
+  <img src="https://streak-stats.demolab.com?user=Zauwx&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
