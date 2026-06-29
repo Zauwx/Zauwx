@@ -71,6 +71,9 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
   <a href="https://verify.skilljar.com/c/7qozrkeucnxt">
     <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/>
   </a>
+  <a href="https://www.credly.com/badges/4e10e220-8724-4f2c-b14e-42cc769de693/public_url">
+    <img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials"/>
+  </a>
 </p>
 
 **En préparation / Visé**
