@@ -1,7 +1,6 @@
 <h1 align="center">Administration Systèmes & Infrastructure</h1>
 <h3 align="center">Windows Server · Réseau & Sécurité · Self-Hosting · IA & DevOps</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Administration+syst%C3%A8mes+%26+infrastructure;Self-hosting+%26+souverainet%C3%A9+des+donn%C3%A9es;IA+%26+LLM+self-hosted;Automatisation+%26+DevOps" alt="Typing SVG" />
 </p>
@@ -10,59 +9,61 @@
 
 ### Présentation
 
-Administrateur systèmes orienté infrastructure, réseau et self-hosting, passionné d'informatique et de technologies émergentes. J'interviens sur des environnements Windows Server et Linux, la sécurité réseau, l'hébergement de données sensibles (milieu médical / HDS) et le déploiement de solutions d'IA self-hosted. L'intelligence artificielle me fascine particulièrement : j'explore en continu ses usages concrets, du déploiement de LLM en local aux pipelines RAG et à l'automatisation intelligente. J'apprends en construisant et améliore mes compétences sans relâche, animé par la curiosité, l'automatisation et la souveraineté des données.
+Administrateur systèmes orienté infrastructure, réseau et self-hosting, passionné d'informatique et de technologies émergentes. J'interviens sur des environnements Windows Server et Linux, en sécurité réseau, en hébergement de données sensibles (milieu médical / HDS) et en déploiement de solutions d'IA self-hostées.
+
+L'intelligence artificielle me fascine : j'explore en continu ses usages concrets, du déploiement de LLM en local aux pipelines RAG. J'apprends en construisant, avec pour moteurs la curiosité, l'automatisation et la souveraineté des données.
 
 ---
 
 ### Mon parcours
 
-En 2025, je partais sans aucune base sous Linux. Je me suis formé en autodidacte en construisant de vrais projets, et je conçois aujourd'hui des infrastructures de plus en plus abouties : virtualisation, conteneurisation, supervision, reverse-proxy et IA self-hosted. Mon infrastructure n'est jamais « figée » : elle évolue en continu, en parallèle de l'exploitation en production, au fil des besoins et des compétences acquises.
+En 2025, je partais sans aucune base sous Linux. Je me suis formé en autodidacte en construisant de vrais projets. Je conçois aujourd'hui des infrastructures de plus en plus abouties : virtualisation, conteneurisation, supervision, reverse-proxy et IA self-hostée. Mon infrastructure n'est jamais figée : elle évolue en continu, en parallèle de l'exploitation en production, au fil des besoins et des compétences acquises.
 
-Ce qui me motive, c'est la philosophie de l'open source : comprendre ce qui tourne sous le capot, ne pas dépendre de boîtes noires, et rester propriétaire de mes données. Le self-hosting et la souveraineté numérique sont au cœur de ma démarche. Les certifications que je vise (LFCS, CCNA, AWS) structurent et valident cette progression.
+Ce qui me motive, c'est la philosophie de l'open source : comprendre ce qui tourne sous le capot, ne pas dépendre de boîtes noires et rester propriétaire de mes données. Le self-hosting et la souveraineté numérique sont au cœur de ma démarche. Les certifications que je vise (LFCS, CCNA, AWS) structurent et valident cette progression.
 
 ---
 
 ### Maîtrise
 
 - **Environnement Windows** : Windows Server (Active Directory, GPO, services de domaine) et administration de postes Windows.
-- **Réseau & Sécurité** : Réseau et gestion de firewalls : segmentation, règles de filtrage, VPN, DNS, certificats.
-- **Diagnostic réseau & système** : Identification et résolution de pannes (connectivité, latence, résolution DNS, débit, routage), analyse de logs et supervision des performances système.
-- **Environnement médical & HDS** : Infrastructure IT en milieu médical, contraintes d'hébergement de données de santé (HDS) et exigences de continuité de service.
-- **IA & LLM self-hosted** : Déploiement et utilisation de modèles de langage en local (Ollama, llama3.1, embeddings nomic-embed-text), pipelines RAG (RAGFlow + Open WebUI) et agents conversationnels intégrés au SI (routage d'intentions, ingestion automatisée de données métier, citations sourcées). Connaissance des différents modèles LLM et de leurs cas d'usage, avec un fort intérêt pour la souveraineté des données.
-- **Homelab & médiathèque** : Stack auto-hébergée orchestrée via Portainer : Jellyfin / Jellyseerr pour le streaming, Prowlarr / Sonarr / Radarr pour l'automatisation de la médiathèque, le tout derrière reverse-proxy.
+- **Réseau & Sécurité** : gestion de firewalls (Stormshield), segmentation, règles de filtrage, VPN, DNS, certificats.
+- **Diagnostic réseau & système** : identification et résolution de pannes (connectivité, latence, résolution DNS, débit, routage), analyse de logs et supervision des performances système.
+- **Environnement médical & HDS** : infrastructure IT en milieu médical, contraintes d'hébergement de données de santé (HDS) et exigences de continuité de service.
+- **IA & LLM self-hostés** : déploiement et utilisation de modèles de langage en local (Ollama, llama3.1, embeddings nomic-embed-text), pipelines RAG (RAGFlow + Open WebUI) et agents conversationnels intégrés au SI (routage d'intentions, ingestion de données métier, citations sourcées). Bonne connaissance des différents modèles et de leurs cas d'usage, avec un fort intérêt pour la souveraineté des données.
+- **Homelab & médiathèque** : stack auto-hébergée orchestrée via Portainer. Jellyfin / Jellyseerr pour le streaming, Prowlarr / Sonarr / Radarr pour l'automatisation de la médiathèque, le tout derrière un reverse-proxy.
 
 ---
 
 ### Apprentissage continu
 
-- **Virtualisation** : Proxmox VE : VM/LXC, snapshots, passthrough GPU, PXE/FOG.
+- **Virtualisation** : Proxmox VE (VM/LXC, snapshots, passthrough GPU, PXE/FOG) et Hyper-V.
 - **Conteneurisation** : Docker & Docker Compose, reverse-proxy avec Nginx Proxy Manager (NPM).
-- **Supervision** : Zabbix, Grafana et centralisation des logs (Loki/Promtail).
+- **Supervision** : Grafana, Prometheus et centralisation des logs (Loki/Promtail).
 - **Sécurité & Identité** : SSO avec Authentik, gestion de secrets (Vaultwarden), durcissement système.
-- **Automatisation** : Scripting Bash/Python, workflows n8n, orchestration via SSH.
+- **Automatisation** : scripting Bash/Python et orchestration via SSH.
 
 ---
 
 ### 🚀 CI/CD & Méthodologie projet `en cours de montée en compétences`
 
-Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*), je structure mon travail comme une vraie organisation produit :
+Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*), je structure mon travail comme une véritable organisation produit :
 
-- **CI/CD** : Mise en place de pipelines GitHub Actions (build, tests, déploiement automatisé), gestion des environnements et des releases.
-- **Versioning & collaboration** : Git workflow structuré (branches, pull requests, revues de code), automatisation des dépendances via Dependabot, sécurisation des dépôts.
-- **Infrastructure as Code & provisioning** : Déploiement reproductible sur VPS, orchestration du cycle de vie des services via API et automatisation SSH.
-- **Organisation du travail** : Découpage en sprints, suivi des tâches, documentation maintenue comme source unique de vérité, démarche itérative.
+- **CI/CD** : pipelines GitHub Actions (build, tests, déploiement automatisé), gestion des environnements et des releases.
+- **Versioning & collaboration** : workflow Git structuré (branches, pull requests, revues de code), mise à jour des dépendances avec Dependabot, sécurisation des dépôts.
+- **Infrastructure as Code & provisioning** : déploiement reproductible sur VPS, orchestration du cycle de vie des services via API et automatisation SSH.
+- **Organisation du travail** : découpage en sprints, suivi des tâches, documentation maintenue comme source unique de vérité, démarche itérative.
 
 ---
 
 ### Certifications & Formations
 
-**Obtenu**
+**Obtenues**
 
 <p align="left">
   <a href="https://www.credly.com/badges/17b17c23-ddfd-44c9-b9a3-1dbe96ebeac4/public_url">
-  <img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Professional Certificate"/>
-</a>
-    <a href="https://www.credly.com/badges/4e10e220-8724-4f2c-b14e-42cc769de693/public_url">
+    <img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Professional Certificate"/>
+  </a>
+  <a href="https://www.credly.com/badges/4e10e220-8724-4f2c-b14e-42cc769de693/public_url">
     <img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials"/>
   </a>
   <a href="https://www.credly.com/badges/4a44a877-15bc-43e0-86e6-bd7188da06fa">
@@ -79,12 +80,12 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
   </a>
 </p>
 
-**En préparation / Visé**
+**En préparation / visées**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux%20Foundation-LFCS-0D597F?style=for-the-badge&logo=linux&logoColor=white" alt="LFCS"/>
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="CCA"/>
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect"/>
   <img src="https://img.shields.io/badge/Fortinet-NSE%201--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE"/>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner"/>
   <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner"/>
@@ -99,16 +100,16 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 
 | Catégorie | Outils |
 |---|---|
-| **OS & Systèmes** | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) |
-| **Virtualisation** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) |
+| **OS & Systèmes** | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) |
+| **Virtualisation** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) |
 | **Conteneurisation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white) |
-| **Réseau & Proxy** | ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginx&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-| **Supervision** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
-| **Ticketing & ITSM** | ![GLPI](https://img.shields.io/badge/GLPI-FFC400?style=for-the-badge&logoColor=black) |
-| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white) |
-| **Scripting & Auto** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
+| **Réseau & Sécurité** | ![Stormshield](https://img.shields.io/badge/Stormshield-0A3D62?style=for-the-badge&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginx&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white) |
+| **Supervision** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
+| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
+| **Scripting** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **CI/CD & Versioning** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| **IA & LLM** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![RAGFlow](https://img.shields.io/badge/RAGFlow-6C5CE7?style=for-the-badge&logoColor=white) ![Open WebUI](https://img.shields.io/badge/Open%20WebUI-000000?style=for-the-badge&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) 
+| **IA & LLM** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![RAGFlow](https://img.shields.io/badge/RAGFlow-6C5CE7?style=for-the-badge&logoColor=white) ![Open WebUI](https://img.shields.io/badge/Open%20WebUI-000000?style=for-the-badge&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) |
+| **Outils** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
 | **Self-Hosting** | ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white) ![Jellyseerr](https://img.shields.io/badge/Jellyseerr-6366F1?style=for-the-badge&logoColor=white) ![Sonarr](https://img.shields.io/badge/Sonarr-2596BE?style=for-the-badge&logo=sonarr&logoColor=white) ![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logo=radarr&logoColor=black) ![Prowlarr](https://img.shields.io/badge/Prowlarr-E5A00D?style=for-the-badge&logoColor=white) |
 
 ---
@@ -118,14 +119,14 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 Infrastructure IT self-hosted</h4>
-      <p>Socle complet pour un environnement médical : Proxmox, stack Docker (GLPI, Zabbix, Grafana, NetBox, Authentik, Vaultwarden) derrière reverse-proxy, supervision et logging centralisés. Orientation souveraineté et continuité de service.</p>
-      <p><code>Proxmox</code> <code>Docker</code> <code>NPM</code> <code>Zabbix</code></p>
+      <h4>🏥 Infrastructure IT self-hostée</h4>
+      <p>Socle complet pour un environnement médical : Proxmox, stack Docker (Grafana, NetBox, Authentik, Vaultwarden) derrière un reverse-proxy, supervision et logs centralisés. Orientation souveraineté et continuité de service.</p>
+      <p><code>Proxmox</code> <code>Docker</code> <code>NPM</code> <code>Grafana</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Assistant IA self-hosted (RAG)</h4>
-      <p>Pipeline RAG 100% local : Ollama + RAGFlow + Open WebUI, ingestion automatisée de données métier via n8n, routage d'intentions et réponses sourcées. Zéro dépendance cloud, données maîtrisées de bout en bout.</p>
-      <p><code>Ollama</code> <code>RAGFlow</code> <code>n8n</code> <code>LLM</code></p>
+      <h4>🤖 Assistant IA self-hosté (RAG)</h4>
+      <p>Pipeline RAG 100 % local : Ollama + RAGFlow + Open WebUI, ingestion automatisée de données métier, routage d'intentions et réponses sourcées. Zéro dépendance cloud, données maîtrisées de bout en bout.</p>
+      <p><code>Ollama</code> <code>RAGFlow</code> <code>Open WebUI</code> <code>LLM</code></p>
     </td>
   </tr>
   <tr>
@@ -136,7 +137,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
     </td>
     <td width="50%" valign="top">
       <h4>🎬 Homelab & médiathèque</h4>
-      <p>Stack auto-hébergée orchestrée via Portainer : Jellyfin / Jellyseerr et l'écosystème *arr (Prowlarr / Sonarr / Radarr), automatisée de bout en bout derrière reverse-proxy.</p>
+      <p>Stack auto-hébergée orchestrée via Portainer : Jellyfin / Jellyseerr et écosystème *arr (Prowlarr / Sonarr / Radarr), automatisée de bout en bout derrière un reverse-proxy.</p>
       <p><code>Portainer</code> <code>Jellyfin</code> <code>Docker</code></p>
     </td>
   </tr>
@@ -147,16 +148,16 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 ### Statistiques GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zauwx&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zauwx&layout=compact&langs_count=8&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zauwx&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zauwx&layout=compact&langs_count=8&theme=default" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zauwx&theme=default&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Zauwx&theme=default&hide_border=true" alt="Streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zauwx/Zauwx/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Zauwx/Zauwx/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
