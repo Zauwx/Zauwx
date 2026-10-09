@@ -86,7 +86,8 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux%20Foundation-LFCS-0D597F?style=for-the-badge&logo=linux&logoColor=white" alt="LFCS"/>
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+  <img src="https://img.shields.io/badge/Stormshield-CSNA-0A3D62?style=for-the-badge&logoColor=white" alt="Stormshield CSNA"/>
+  <img src="https://img.shields.io/badge/Stormshield-CSNE-0A3D62?style=for-the-badge&logoColor=white" alt="Stormshield CSNE"/>
   <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect"/>
   <img src="https://img.shields.io/badge/Fortinet-NSE%201--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE"/>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner"/>
@@ -94,7 +95,18 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
   <img src="https://img.shields.io/badge/AWS-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SysOps Administrator"/>
 </p>
 
-> 🎯 **Roadmap** : LFCS (admin Linux) · CCNA (réseau Cisco) · Claude Certified Architect & Anthropic Academy (IA / LLM) · Fortinet NSE 1-3 (sécurité réseau) · AWS Cloud Practitioner → AI Practitioner → SysOps Administrator (cloud)
+> 🎯 **Roadmap** : LFCS (admin Linux) · Stormshield CSNA → CSNE (sécurité réseau) · Claude Certified Architect & Anthropic Academy (IA / LLM) · Fortinet NSE 1-3 (sécurité réseau) · AWS Cloud Practitioner → AI Practitioner → SysOps Administrator (cloud)
+
+---
+
+### ☁️ Prochaine étape : découverte de l'environnement Azure `à venir`
+
+Dans la continuité de mon travail sur la virtualisation, la sauvegarde et le PRA, je prévois d'explorer l'écosystème Microsoft Azure :
+
+- **Fondamentaux** : portail Azure, abonnements, groupes de ressources, modèle de facturation.
+- **Infrastructure** : machines virtuelles, réseaux virtuels (VNet), stockage et sauvegarde dans le cloud.
+- **Identité & sécurité** : Microsoft Entra ID (ex-Azure AD), gestion des accès (RBAC), connexion avec l'Active Directory existant.
+- **Hybride** : liaison entre l'infrastructure sur site et Azure (VPN, réplication, reprise d'activité).
 
 ---
 
@@ -106,7 +118,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 | **Virtualisation** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) |
 | **Sauvegarde & Stockage** | ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white) ![Synology](https://img.shields.io/badge/Synology-B5B5B5?style=for-the-badge&logo=synology&logoColor=black) |
 | **Conteneurisation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white) |
-| **Réseau & Sécurité** | ![Stormshield](https://img.shields.io/badge/Stormshield-0A3D62?style=for-the-badge&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginx&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white) |
+| **Réseau & Sécurité** | ![Stormshield](https://img.shields.io/badge/Stormshield-0A3D62?style=for-the-badge&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginx&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white) |
 | **Supervision** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
 | **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **Scripting** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
