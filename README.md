@@ -9,7 +9,7 @@
 
 ### Présentation
 
-Administrateur systèmes orienté infrastructure, réseau et self-hosting, passionné d'informatique et de technologies émergentes. J'interviens sur des environnements Windows Server et Linux, en sécurité réseau, en hébergement de données sensibles (milieu médical / HDS) et en déploiement de solutions d'IA self-hostées.
+Administrateur Système Infrastructure chez [ADW](https://www.adw.fr), orienté infrastructure, réseau et self-hosting, passionné d'informatique et de technologies émergentes. J'interviens sur des environnements Windows Server et Linux, en sécurité réseau et en déploiement de solutions d'IA self-hostées.
 
 L'intelligence artificielle me fascine : j'explore en continu ses usages concrets, du déploiement de LLM en local aux pipelines RAG. J'apprends en construisant, avec pour moteurs la curiosité, l'automatisation et la souveraineté des données.
 
@@ -28,7 +28,10 @@ Ce qui me motive, c'est la philosophie de l'open source : comprendre ce qui tour
 - **Environnement Windows** : Windows Server (Active Directory, GPO, services de domaine) et administration de postes Windows.
 - **Réseau & Sécurité** : gestion de firewalls (Stormshield), segmentation, règles de filtrage, VPN, DNS, certificats.
 - **Diagnostic réseau & système** : identification et résolution de pannes (connectivité, latence, résolution DNS, débit, routage), analyse de logs et supervision des performances système.
-- **Environnement médical & HDS** : infrastructure IT en milieu médical, contraintes d'hébergement de données de santé (HDS) et exigences de continuité de service.
+- **Cybersécurité** : sécurisation des infrastructures et des accès, durcissement des systèmes, protection des postes et des données.
+- **Virtualisation** : Proxmox VE, Hyper-V et VMware : déploiement, gestion et supervision de machines virtuelles.
+- **Sauvegarde & PRA** : Veeam (sauvegarde Microsoft 365, sauvegarde et stockage de VM, réplication, plan de reprise d'activité) et environnements Synology.
+- **Administration d'infrastructure** : exploitation d'environnements de production, exigences de disponibilité et de continuité de service.
 - **IA & LLM self-hostés** : déploiement et utilisation de modèles de langage en local (Ollama, llama3.1, embeddings nomic-embed-text), pipelines RAG (RAGFlow + Open WebUI) et agents conversationnels intégrés au SI (routage d'intentions, ingestion de données métier, citations sourcées). Bonne connaissance des différents modèles et de leurs cas d'usage, avec un fort intérêt pour la souveraineté des données.
 - **Homelab & médiathèque** : stack auto-hébergée orchestrée via Portainer. Jellyfin / Jellyseerr pour le streaming, Prowlarr / Sonarr / Radarr pour l'automatisation de la médiathèque, le tout derrière un reverse-proxy.
 
@@ -36,7 +39,6 @@ Ce qui me motive, c'est la philosophie de l'open source : comprendre ce qui tour
 
 ### Apprentissage continu
 
-- **Virtualisation** : Proxmox VE (VM/LXC, snapshots, passthrough GPU, PXE/FOG) et Hyper-V.
 - **Conteneurisation** : Docker & Docker Compose, reverse-proxy avec Nginx Proxy Manager (NPM).
 - **Supervision** : Grafana, Prometheus et centralisation des logs (Loki/Promtail).
 - **Sécurité & Identité** : SSO avec Authentik, gestion de secrets (Vaultwarden), durcissement système.
@@ -102,6 +104,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 |---|---|
 | **OS & Systèmes** | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) |
 | **Virtualisation** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) |
+| **Sauvegarde & Stockage** | ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white) ![Synology](https://img.shields.io/badge/Synology-B5B5B5?style=for-the-badge&logo=synology&logoColor=black) |
 | **Conteneurisation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white) |
 | **Réseau & Sécurité** | ![Stormshield](https://img.shields.io/badge/Stormshield-0A3D62?style=for-the-badge&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginx&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white) |
 | **Supervision** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
@@ -120,7 +123,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
   <tr>
     <td width="50%" valign="top">
       <h4>🏥 Infrastructure IT self-hostée</h4>
-      <p>Socle complet pour un environnement médical : Proxmox, stack Docker (Grafana, NetBox, Authentik, Vaultwarden) derrière un reverse-proxy, supervision et logs centralisés. Orientation souveraineté et continuité de service.</p>
+      <p>Socle complet pour un environnement de production : Proxmox, stack Docker (Grafana, NetBox, Authentik, Vaultwarden) derrière un reverse-proxy, supervision et logs centralisés. Orientation souveraineté et continuité de service.</p>
       <p><code>Proxmox</code> <code>Docker</code> <code>NPM</code> <code>Grafana</code></p>
     </td>
     <td width="50%" valign="top">
