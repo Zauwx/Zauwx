@@ -62,6 +62,7 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 **Obtenues**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Stormshield-CSNA-0A3D62?style=for-the-badge&logoColor=white" alt="Stormshield CSNA"/>
   <a href="https://www.credly.com/badges/17b17c23-ddfd-44c9-b9a3-1dbe96ebeac4/public_url">
     <img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Professional Certificate"/>
   </a>
@@ -86,7 +87,6 @@ Sur un projet personnel d'envergure (plateforme d'hébergement, *closed source*)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux%20Foundation-LFCS-0D597F?style=for-the-badge&logo=linux&logoColor=white" alt="LFCS"/>
-  <img src="https://img.shields.io/badge/Stormshield-CSNA-0A3D62?style=for-the-badge&logoColor=white" alt="Stormshield CSNA"/>
   <img src="https://img.shields.io/badge/Stormshield-CSNE-0A3D62?style=for-the-badge&logoColor=white" alt="Stormshield CSNE"/>
   <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect"/>
   <img src="https://img.shields.io/badge/Fortinet-NSE%201--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE"/>
